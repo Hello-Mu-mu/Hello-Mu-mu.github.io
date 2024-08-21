@@ -1,0 +1,4 @@
+baseURL = 'https://hello-mu-mu.github.io/'
+languageCode = 'en-us'
+title = 'MUMU Site'
+theme = 'ananke'
